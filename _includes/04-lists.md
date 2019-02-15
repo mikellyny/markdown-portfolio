@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+Favorite authors
+- Heinlein
+- Asimov
+- Butcher
+  - Desden files
